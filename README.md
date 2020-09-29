@@ -1,7 +1,13 @@
 # Python-Challenge-hw3
 
-PyBank 1.3(Final) - Keyur Patil.py
+VB Script files:
 
-PyPoll 1.2(Final) - Keyur Patil.py
+  PyBank 1.3(Final) - Keyur Patil.py
 
-PyPoll_output.txt
+  PyPoll 1.2(Final) - Keyur Patil.py
+
+output files:
+
+  Pybank_output.txt
+
+  PyPoll_output.txt
